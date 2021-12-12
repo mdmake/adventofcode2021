@@ -436,5 +436,5 @@ def findAllZerosStep(data):
 
 if __name__ == '__main__':
     data = readData('day11data.txt')
-    #print(getExplosionCount(data))
-    print(findAllZerosStep(data))
+    print(f"First part answer: {getExplosionCount(data)}")
+    print(f"Second part answer: {findAllZerosStep(data)}")

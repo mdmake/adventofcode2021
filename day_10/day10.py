@@ -147,4 +147,4 @@ def calculateAddedBracketScore():
 
 if __name__ == '__main__':
     print(f"First part answer: {calculateBrokenSequenceFine()}")
-    print(f"First part answer: {calculateAddedBracketScore()}")
+    print(f"Second part answer: {calculateAddedBracketScore()}")
